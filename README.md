@@ -8,7 +8,7 @@ Estudei em escola pública e cursei Tecnologia da Informação no ensino médio 
 
 ## Projetos Destacados
 
-- [Polp+Fortal]([link-para-o-repositório](https://github.com/viniclg/Sistemas/tree/main/Polp%2BFortal)): Um aplicativo web para comparar preços de produtos entre mercados, foi utilizado PHP e javascript.
+- [Polp+Fortal]([link-para-o-repositório](https://github.com/viniclg/Sistemas/tree/main/Polp%2BFortal)): Um aplicativo web para comparar preços de produtos entre mercados, utilizando PHP, javascript e banco de dados mysql.
 
 ## Habilidades Técnicas
 
