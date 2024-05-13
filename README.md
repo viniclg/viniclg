@@ -5,6 +5,7 @@ Sou um desenvolvedor de aplicativos web, estudo programação há 3 anos.
 ## Sobre mim
 
 Estudei em escola pública e cursei Tecnologia da Informação no ensino médio por 3 anos. E trabalhei por 3 meses como estágiario do governo.
+[<img src="[URL da imagem do bootcamp](https://hermes.dio.me/certificates/cover/WJPCTCL3.jpg)" height="50"></a>](https://web.dio.me/track/santander-2024-fundamentos-de-ia-para-devs)
 
 ## Projetos Destacados
 
